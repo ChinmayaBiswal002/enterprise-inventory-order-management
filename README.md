@@ -7,7 +7,7 @@ This project simulates a real-world business management platform with secure aut
 ---
 
 
-# Developed By Abir Das
+# Developed By Chinmaya Biswal
 
 ---
 
